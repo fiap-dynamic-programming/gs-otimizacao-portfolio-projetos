@@ -4,6 +4,14 @@
 
 ---
 
+## 👩‍💻 Integrantes do Grupo
+
+- **Eduardo Dallabella - 556803**  
+- **Heloísa Real - 554535**  
+- **Mariana Dourado - 550494**
+
+---
+
 ## 📘 Introdução
 Este projeto aborda o problema de **Otimização de Portfólio de Projetos**, onde uma empresa precisa selecionar o melhor conjunto de projetos considerando uma capacidade limitada de **Horas-Especialista**. O problema é uma aplicação direta do **0/1 Knapsack Problem**, e foi resolvido em **quatro fases**: Estratégia Gulosa, Recursiva Pura, Programação Dinâmica com Memoização e Programação Dinâmica Bottom-Up. Cada abordagem foi estudada, implementada e comparada quanto ao desempenho, precisão e comportamento diante de casos reais de teste.
 
@@ -77,14 +85,6 @@ A abordagem Bottom-Up é a melhor solução porque:
 - ✔ Demonstração de falha da abordagem Gulosa  
 - ✔ Código amplamente comentado e explicativo  
 - ✔ Documentação completa e clara conforme solicitado  
-
----
-
-## 👩‍💻 Integrantes do Grupo
-
-- **Eduardo Dallabella - 556803**  
-- **Heloísa Real - 554535**  
-- **Mariana Dourado - 550494**  
 
 ---
 
